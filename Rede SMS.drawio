@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T12:01:50.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="1vYt0_UDN_sBmD-sezVn" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T18:32:18.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="FCf4M1SHLQk92_RoZCVN" version="14.4.4" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="2370" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aPF85JMuLNErHujUHBvL-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Empty_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-5" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;backgroundColor=#aaaaaa;fillColor2=#444444;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-18" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="aPF85JMuLNErHujUHBvL-5">
+          <mxGeometry x="9" y="41" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-9" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9775a_2530_48g_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-5">
+          <mxGeometry x="9" y="61" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-12" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9776a_2530_24g_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-5">
+          <mxGeometry x="9" y="101" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-10" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9773a_2530_24g_poeplus_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-5">
+          <mxGeometry x="9" y="121" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-11" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9772a_2530_48g_poeplus_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-5">
+          <mxGeometry x="9" y="181" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-6" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="180" height="228.6" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#E6E6E6;" vertex="1" parent="aPF85JMuLNErHujUHBvL-6">
+          <mxGeometry x="9" y="41" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-7" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9853a_2530_48g_poeplus_2sfpplus_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-6">
+          <mxGeometry x="9" y="61" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-13" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-6">
+          <mxGeometry x="9" y="101" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-14" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.physical_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-6">
+          <mxGeometry x="9" y="141" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-8" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9854a_2530_24g_poeplus_2sfpplus_switch;" vertex="1" parent="aPF85JMuLNErHujUHBvL-6">
+          <mxGeometry x="9" y="161" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-17" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" vertex="1" parent="1">
+          <mxGeometry x="50" y="266" width="160" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-19" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-20" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-21" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aPF85JMuLNErHujUHBvL-22" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="539" y="620" width="162" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
